@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
                     Toast t = Toast.makeText(MainActivity.this,msg,Toast.LENGTH_LONG);
                     t.show();
                 }else if(distance.length()!=0&&time.length()!=0){
-
                 }
             }
         });
